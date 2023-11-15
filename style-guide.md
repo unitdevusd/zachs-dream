@@ -33,7 +33,7 @@ Ionicon
 --raisin-black: hsl(220, 8%, 14%);
 --granite-gray: hsl(0, 0%, 38%);
 --sonic-silver: hsl(0, 0%, 47%);
---pistachio_50: hsla(86, 45%, 54%, 0.5);
+--down_50: hsla(86, 45%, 54%, 0.5);
 --baby-powder: hsl(86, 41%, 97%);
 --light-gray: hsl(0, 0%, 80%);
 --pistachio: hsl(86, 45%, 54%);
@@ -45,6 +45,7 @@ Ionicon
 --white: hsl(0, 0%, 100%);
 --black: hsl(0, 0%, 0%);
 --jet: hsl(0, 0%, 18%);
+--down: hsl(38.73, 93.22%, 48.24%);
 ```
 
 ## Typography
