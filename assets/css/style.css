@@ -309,6 +309,19 @@ body {
   text-transform: uppercase;
 }
 
+#rightToLeft{
+  animation: rightToLeft 10s infinite linear;
+}
+
+@keyframes rightToLeft {
+  from{
+    transform: translateX(100%);
+  }
+  to{
+    transform: translateX(-100%);
+  }
+}
+
 .nav-open-btn {
   color: var(--white);
   font-size: 3.8rem;
