@@ -652,10 +652,11 @@ body {
   justify-content: center;
   align-items: center;
   gap: 5px;
-  color: var(--silver-chalice);
+  color: #fff;
   font-size: var(--fs-8);
   font-weight: var(--fw-600);
   margin-block-start: 15px;
+  text-decoration: none
 }
 
 .btn-link span { text-decoration: underline; }
