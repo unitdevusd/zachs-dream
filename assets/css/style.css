@@ -415,7 +415,7 @@ body {
 \*-----------------------------------*/
 
 .hero {
-  background-color: #5983a6;
+  background-color: #6d98bb;
   color: var(--white);
   min-height: 700px;
   padding-block: 120px 60px;
@@ -1227,7 +1227,9 @@ body {
     background-size: cover;
     background-position: left;
     min-height: 780px;
-    background-color: #5983a6;
+    /* background-color: #5983a6; */
+    background-color: #6d98bb;
+
   }
 
 
@@ -1494,4 +1496,9 @@ body {
     width: auto;
   }
 
+}
+
+.sdt-logo{
+  /* height: 160px; */
+  width: 160px;  
 }
